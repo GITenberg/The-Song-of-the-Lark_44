@@ -1,0 +1,52 @@
+_repo: The-Song-of-the-Lark_44
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Catherova, Willa
+    - Cather, Wilella
+    - Cather, Willa Sibert
+    - Catherová, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: "The Song of the Lark is the third novel by American author Willa Cather,\
+  \ written in 1915. It is generally considered to be the second novel in Cather's\
+  \ Prairie Trilogy, following O Pioneers! (1913) and preceding My Ántonia (1918).\n\
+  The book tells the story of a talented artist born in a small town in Colorado who\
+  \ discovers and develops her singing voice. Her story is told against the backdrop\
+  \ of the burgeoning American West in which she was born in a town along the rail\
+  \ line, of fast-growing Chicago near the turn of the twentieth century, and of the\
+  \ audience for singers of her skills in the US compared to Europe. Thea Kronborg\
+  \ grows up, learning herself, her strengths and her talent, until she reaches success.\n\
+  The title comes from a painting of the same name by Jules Breton in 1884 and part\
+  \ of the collection of the Art Institute of Chicago.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2008-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44'
+  wikidata: Q7765253
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Swedish Americans -- Fiction'
+- !lcsh 'Opera -- Fiction'
+- !lcsh 'Musical fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Women singers -- Fiction'
+- !lcsh 'Colorado -- Fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- GITenberg
+title: The Song of the Lark
+url: http://www.gutenberg.org/ebooks/44
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Song_of_the_Lark
