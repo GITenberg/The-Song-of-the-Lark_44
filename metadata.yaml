@@ -1,5 +1,8 @@
 _repo: The-Song-of-the-Lark_44
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cather, Willa
@@ -24,6 +27,8 @@ description: "The Song of the Lark is the third novel by American author Willa C
   \ grows up, learning herself, her strengths and her talent, until she reaches success.\n\
   The title comes from a painting of the same name by Jules Breton in 1884 and part\
   \ of the collection of the Art Institute of Chicago.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44#The-Song-of-the-Lark
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
